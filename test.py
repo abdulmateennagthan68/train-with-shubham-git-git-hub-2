@@ -4,5 +4,3 @@ print("Running test.py")
 print("End of test.py")
 print("All done!")
 
-# print done 
-print ( " latest code " )
